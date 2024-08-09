@@ -1,0 +1,11 @@
+{
+    "games": [
+        { "id": "1", "url": "https://www.onlinegames.io/games/2024/unity/drift-king/index.html" },
+        { "id": "2", "url": "https://www.onlinegames.io/games/2023/unity2/gta-simulator/index.html" },
+        { "id": "3", "url": "https://example.com/games/game3.html" },
+        {"id" : "4", "url": "https://www.onlinegames.io/games/2023/freezenova.com/jeep-racing/index.html"}
+    ]
+}
+
+
+
