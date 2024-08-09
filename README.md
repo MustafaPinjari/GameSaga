@@ -1,6 +1,3 @@
-Great! Here’s the updated README file for **Games Saga**:
-
----
 
 # 🎮 Games Saga
 
